@@ -27,3 +27,12 @@ The logical and functional order of the project is as follows:
 ### Database
 This repository does not include the database used due to its character and usage restrictions. More information can be found in the associated article.
 
+## Contributors
+This project was developed by:
+   - Yolanda Vives Gilabert
+   - Joan Vila Francés
+   - José V. Bagan
+   - Eva Chilet Martos
+     
+We appreciate the collaboration and support of all the team members throughout the development process.
+
