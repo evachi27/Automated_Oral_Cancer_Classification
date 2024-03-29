@@ -2,6 +2,9 @@
 ## Description
 This repository accompanies the article entitled "Automated Classification of Oral Cancer Lesions: Vision Transformer vs Radiomics.". The project focuses on classifying cancerous oral lesions by comparing vision transformer (ViT) methods with a fully automated radiological approach. This involves the use of object detection and segmentation algorithms to effectively classifie oral lesions in cancer and control cases.
 
+## Associated article
+This paper is available at SSRN https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4772606 .
+
 ## Content of the repository
 ### Notebooks
 The logical and functional order of the project is as follows:
@@ -35,4 +38,11 @@ This project was developed by:
    - Eva Chilet Martos
      
 We appreciate the collaboration and support of all the team members throughout the development process.
+
+## References
+If you found this code useful, please cite our paper:
+
+'''
+Chilet-Martos, Eva and Vila-Francés, Joan and Bagan, Jose V. and Vives-Gilabert, Yolanda, Automated Classification of Oral Cancer Lesions: Vision Transformers vs Radiomics. Available at SSRN: https://ssrn.com/abstract=4772606 or http://dx.doi.org/10.2139/ssrn.4772606
+'''
 
